@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (Application_POO.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Statistiques_CLmapTB.cpp
+  CAD.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  Application POO.vcxproj -> C:\Users\valen\source\repos\Application POO\Debug\ApplicationPOO.exe

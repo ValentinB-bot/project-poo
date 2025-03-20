@@ -1,0 +1,8 @@
+C:\Users\axelm\Documents\Ecole\CESI\Cours\A2\POO\Application POO\Debug\Application POO.vcxproj.AssemblyReference.cache
+C:\Users\axelm\Documents\Ecole\CESI\Cours\A2\POO\Application POO\Debug\ApplicationPOO.exe
+C:\Users\axelm\Documents\Ecole\CESI\Cours\A2\POO\Application POO\Debug\ApplicationPOO.MyForm.resources
+C:\Users\axelm\Documents\Ecole\CESI\Cours\A2\POO\Application POO\Debug\Application POO.vcxproj.GenerateResource.cache
+C:\Users\valen\source\repos\Application POO\Debug\ApplicationPOO.MyForm.resources
+C:\Users\valen\source\repos\Application POO\Debug\Application POO.vcxproj.GenerateResource.cache
+C:\Users\valen\source\repos\Application POO\Debug\ApplicationPOO.exe
+C:\Users\valen\source\repos\Application POO\Debug\Application POO.vcxproj.AssemblyReference.cache
